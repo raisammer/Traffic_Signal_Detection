@@ -1,5 +1,6 @@
 # Traffic_Signal_Detection
 //** Prashant rai_project is tthe code file and remaining are the test images **//
+By changing the image path you can check for each image and you can check other iamges of your files too
 
 TrafficLight_Detector  which can be install in the vehicle
 
