@@ -9,7 +9,7 @@ Created on Mon Nov 15 17:42:41 2021
 import cv2
 import numpy as np
 #taking the input
-image= cv2.imread(r"C:/Users/dell/Desktop/6.jpg",1)
+image= cv2.imread(r"C:/Users/dell/Desktop/red.jpeg",1)
 
 #definig the LIGHTS AS CURRENT STATE AS FALSE
 RED =False
